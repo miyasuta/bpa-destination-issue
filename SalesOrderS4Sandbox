@@ -1,0 +1,9 @@
+#
+#Mon Apr 15 19:54:56 UTC 2024
+URL=https\://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SALES_ORDER_SRV
+Name=SalesOrderS4Sandbox
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=Destination for SAP Business Accelerator Hub Sandbox API for SAP S/4HANA Cloud Sales Orders
+sap.processautomation.enabled=true
